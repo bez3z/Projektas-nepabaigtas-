@@ -1,0 +1,6 @@
+juoda - #242424
+balta - #ffffff
+tamsiai pilka - #2e2e2e
+prekiu fonas - #ebe7df
+pereiti prie kitos prekes spalva ir kainos spalva - #57c5a0
+akcijos spalva / orandzine - #f27e4b

@@ -1,0 +1,11 @@
+
+<script src="https://kit.fontawesome.com/68183eb019.js" crossorigin="anonymous"></script>
+
+paieska - <i class="fas fa-search"></i>
+krepselis - <i class="fas fa-shopping-cart"></i>
+telefonas - <i class="fas fa-phone-alt"></i>
+pastas - <i class="fas fa-envelope"></i>
+adresas - <i class="fas fa-home"></i>
+facebook - <i class="fab fa-facebook"></i>
+noru sarasas - <i class="fas fa-heart"></i>
+twitter - <i class="fab fa-twitter"></i>

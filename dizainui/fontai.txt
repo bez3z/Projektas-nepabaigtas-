@@ -1,0 +1,8 @@
+
+
+.your-style {
+    font-family: 'Aller';
+    font-weight: normal;
+    font-style: normal;
+}
+<link rel="preload" href="Aller.woff2" as="font" type="font/woff2" crossorigin>
